@@ -2,6 +2,7 @@ Dive into the world of modern API development! Learn how to build a RESTful Web 
 
 
 https://medium.com/@cydexcode/build-a-net-8-restful-web-api-testing-with-swagger-and-sql-server-integration-8d18336ebaa2
+
 ![Next Article Preview](preview.png)
 
 ## Check Out My Blog and GitHub Repository
