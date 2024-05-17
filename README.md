@@ -7,13 +7,13 @@ Dive into the world of modern API development with ASP.NET Core in .NET 8.0! Lea
 Check out the tutorial on Medium: [Build a .NET 8 RESTful Web API: Testing with Swagger and SQL Server Integration](https://medium.com/@cydexcode/build-a-net-8-restful-web-api-testing-with-swagger-and-sql-server-integration-8d18336ebaa2)
 
 ![Next Article Preview](preview.jpg)
-
-## Check Out My Blog and GitHub Repository
-
-- **Blog (Medium):** [https://medium.com/@cydexcode](https://medium.com/@cydexcode)
-- **GitHub Repository:** [CydexCode/ASPNETCoreWebAPI](https://github.com/CydexCode/ASPNETCoreWebAPI/tree/master)
-
 ## Next Article Preview
 
 Stay tuned for the next article where we'll demonstrate how to establish a connection between this RESTful API and a frontend application built using React.
+
+## Check Out My Blog 
+
+- **Blog (Medium):** [https://medium.com/@cydexcode](https://medium.com/@cydexcode)
+
+
 
