@@ -1,4 +1,4 @@
-# Modern API Development with ASP.NET Core and .NET 8.0
+# Build a .NET 8 RESTful Web API
 
 Dive into the world of modern API development with ASP.NET Core in .NET 8.0! Learn to build a robust RESTful Web API seamlessly integrated with Entity Framework Core. Discover the power of testing your API with Swagger and ensure efficient data management by storing your data in Microsoft SQL Server Management Studio.
 
